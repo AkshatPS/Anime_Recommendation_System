@@ -99,21 +99,6 @@ The system ensures **scalability**, **interpretability**, and **high performance
 
 ---
 
-## 📈 Model Evaluation
-
-| Model                      | Precision\@K | Recall\@K | RMSE       |
-| -------------------------- | ------------ | --------- | ---------- |
-| KNN (Collaborative)        | 70%          | Moderate  | \~1.2      |
-| K-Means Clustering         | 65%          | 75%       | \~1.1      |
-| Agglomerative Clustering   | 60%          | 70%       | \~1.3      |
-| DistilBERT (Content-Based) | **85%**      | **80%**   | **\~0.95** |
-
-✅ **DistilBERT** provided the best recommendations for narrative-rich anime content
-✅ **K-Means** effectively grouped anime into genre-based clusters
-✅ **KNN** offered interpretability based on user similarity
-
----
-
 ## 🧪 How to Run
 
 1. **Clone this repo**
