@@ -29,7 +29,6 @@ This project implements a hybrid anime recommendation system using various **mac
 * Narrative content via **DistilBERT embeddings**
 * Community popularity metrics
 
-The system ensures **scalability**, **interpretability**, and **high performance** using evaluation metrics like **Precision\@K**, **Recall\@K**, and **RMSE**.
 
 ---
 
